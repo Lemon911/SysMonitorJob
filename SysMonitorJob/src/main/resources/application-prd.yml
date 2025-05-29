@@ -1,0 +1,9 @@
+#端口号
+server:
+  port: 8011
+
+#企业微信信息部沟通群聊机器人
+swarmRobot:
+  robotOfInformationDepart: #信息部沟通群
+    WECHAT_GROUP: "https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=" #替换成自己的群地址
+
